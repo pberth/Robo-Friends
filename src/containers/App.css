@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display&display=swap");
+
+h1 {
+  font-family: "Playfair Display", sans-serif;
+  color: #0ccac4;
+}
+
+.scroll {
+  overflow-y: scroll;
+  border: 1px solid black;
+  height: 500px;
+}
